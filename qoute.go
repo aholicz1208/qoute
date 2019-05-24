@@ -5,7 +5,7 @@ func Say() string {
     return "hello"
 }
 
-// v 0.1.0 add public api
+// v 0.1.0 
 func Bye() string {
     return "bye"
 }
